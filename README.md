@@ -1,1 +1,1 @@
-# bluestock-user register/login
+# bluestock - user register/login/update
